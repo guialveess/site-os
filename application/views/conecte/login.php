@@ -50,9 +50,9 @@ $parse_email = $this->input->get('e');
                             <div class="card card-cad">
                                 <div class="content">
                                     <div id="newlog">
-                                        <div class="icon2">
+                                        <!-- <div class="icon2">
                                             <img src="<?php echo base_url() ?>assets/img/logo-two.png">
-                                        </div>
+                                        </div> -->
                                         <div class="title01">
                                             <?= $configuration['app_theme'] == 'white' ? '<img src="' . base_url() . 'assets/img/logo-mapos.png">' : '<img src="' . base_url() . 'assets/img/logo-mapos-branco.png">'; ?>
                                         </div>
@@ -81,8 +81,8 @@ $parse_email = $this->input->get('e');
                                     <div class="links-uteis"><a href="<?= site_url('mine/resetarSenha') ?>">
                                             <p style="margin:0px 0 18px">Esqueceu a senha?</p>
                                         </a></div>
-                                    <div class="links-uteis"><a href="https://github.com/RamonSilva20/mapos">
-                                            <p><?= date('Y'); ?> &copy; Ramon Silva</p>
+                                    <div class="links-uteis"><a href="https://github.com/guiiwfz/site-os">
+                                            <p><?= date('Y'); ?> &copy; Guilherme Alves</p>
                                         </a></div>
                                 </div>
                             </div>

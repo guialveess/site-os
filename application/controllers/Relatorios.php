@@ -11,7 +11,7 @@ if (!defined('BASEPATH')) {
 class Relatorios extends MY_Controller
 {
     /**
-     * author: Ramon Silva
+     * author: Guilherme Alves
      * email: silva018-mg@yahoo.com.br
      *
      */

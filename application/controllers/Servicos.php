@@ -5,7 +5,7 @@
 class Servicos extends MY_Controller
 {
     /**
-     * author: Ramon Silva
+     * author: Guilherme Alves
      * email: silva018-mg@yahoo.com.br
      *
      */

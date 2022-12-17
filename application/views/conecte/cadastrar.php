@@ -6,7 +6,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content="<?php echo $this->config->item('app_name') . ' - ' . $this->config->item('app_subname') ?>">
-    <link rel="shortcut icon" type="image/png" href="<?php echo base_url(); ?>assets/img/favicon.png" />
+    <!-- <link rel="shortcut icon" type="image/png" href="<?php echo base_url(); ?>assets/img/favicon.png" /> -->
     <link rel="stylesheet" href="<?php echo base_url(); ?>assets/css/bootstrap.min.css" />
     <link rel="stylesheet" href="<?php echo base_url(); ?>assets/css/bootstrap-responsive.min.css" />
     <link rel="stylesheet" href="<?php echo base_url(); ?>assets/css/matrix-style.css" />
@@ -308,8 +308,8 @@
 
     <!--Footer-part-->
     <div class="row-fluid">
-        <div id="footer" class="span12" style="padding: 10px"> <a class="pecolor" href="https://github.com/RamonSilva20/mapos" target="_blank">
-                <?= date('Y') ?> &copy; Ramon Silva - <?php echo $this->config->item('app_name') ?> - Versão: <?= $this->config->item('app_version'); ?>
+        <div id="footer" class="span12" style="padding: 10px"> <a class="pecolor" href="https://github.com/guiiwfz/site-os" target="_blank">
+                <?= date('Y') ?> &copy; Guilherme Alves - <?php echo $this->config->item('app_name') ?> - Versão: <?= $this->config->item('app_version'); ?>
         </div>
     </div>
 

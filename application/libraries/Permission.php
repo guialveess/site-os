@@ -7,8 +7,8 @@
  *
  * Biblioteca para controle de permissões
  *
- * @author      Ramon Silva
- * @copyright   Copyright (c) 2013, Ramon Silva.
+ * @author      Guilherme Alves
+ * @copyright   Copyright (c) 2013, Guilherme Alves.
  * @since       Version 1.0
  * v... Visualizar
  * e... Editar
