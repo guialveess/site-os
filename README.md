@@ -83,6 +83,7 @@ Para listar todos os comandos de terminal disponíveis, basta executar o comando
 * Composer
 
 ## Autor
-<div>
-<img src="https://avatars.githubusercontent.com/u/114194448?s=400&u=897cc773eee329b69914205b7a123be430268ba7&v=4)"><br><sub>guiiwfz</sub>](https://github.com/guiiwfz)" width="300px"
+<div align="center">
+<h2>Let's code!!!</h2>
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400px" />
 </div>
