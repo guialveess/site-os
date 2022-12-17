@@ -83,5 +83,5 @@ Para listar todos os comandos de terminal disponíveis, basta executar o comando
 * Composer
 
 ## Autor
-| [<img src="https://avatars.githubusercontent.com/RamonSilva20?s=115"><br><sub>Ramon Silva</sub>](https://github.com/RamonSilva20) |
+| [<img src="https://avatars.githubusercontent.com/RamonSilva20?s=115"><br><sub>Ramon Silva</sub>](https://github.com/guiiwfz) |
 | :---: |
