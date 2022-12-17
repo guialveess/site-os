@@ -85,5 +85,5 @@ Para listar todos os comandos de terminal disponíveis, basta executar o comando
 ## Autor
 <div align="center">
 <h2>Let's code!!!</h2>
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400px" />
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F566327721878529387%2F&psig=AOvVaw1wjmMz_ZrnLRa54HIw298Y&ust=1671387864126000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKCk9ZGjgfwCFQAAAAAdAAAAABAR" width="150px" />
 </div>
