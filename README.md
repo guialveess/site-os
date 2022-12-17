@@ -1,5 +1,4 @@
-### [Instalação](Instalacao_xampp_windows.md)
-
+Instalação
 1. Faça o download dos arquivos.
 2. Extraia o pacote e copie para seu webserver.
 3. Rode o comando `composer install --no-dev` a partir da raiz do projeto.
@@ -17,7 +16,7 @@
 ### Instalação (Docker)
 
 1. Faça o download dos arquivos.
-2. Instale o [Docker](https://docs.docker.com/install/) e o [Docker Compose](https://docs.docker.com/compose/install/).
+2. Instale o Docker e o Docker Compose
 3. Entre na pasta `docker` no seu terminal e rode o comando `docker-compose up --force-recreate`.
 4. Acesse a URL `http://localhost:8000/` no navegador e inicie a instalação.
 5. Na etapa de configuração use as seguintes configurações:
