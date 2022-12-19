@@ -33,7 +33,7 @@ body * {
   --laranja : #fc9d0f;
   --laranja1: #ffedd4;
   --violeta : #6b22fc;
-  --violeta0: #302b63;
+  --violeta0: #191641;
   --violeta1: #2f2b53;
 }
 
@@ -46,12 +46,12 @@ body * {
 }
 
 #newlog .icon2 {
-  width: 42px;
+  width: 999px;
 }
 
 #newlog .title01 {
-  padding-left: 6px;
-  width       : 135px;
+  padding-left: 3px;
+  width: 200px;
 }
 
 #mcell {
@@ -245,12 +245,12 @@ input:focus {
 .left-login > h1 {
   font-size  : 2.4em;
   font-weight: 600;
-  color      : var(--violeta0);
+  color      : var(--black);
 }
 
 .left-login > h2 {
   font-size    : 1.25em;
-  color        : var(--cinza);
+  color        : var(--black);
   font-weight  : 500;
   margin-top   : -23px;
   margin-bottom: -10px;

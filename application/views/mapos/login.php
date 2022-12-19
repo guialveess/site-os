@@ -54,9 +54,6 @@ echo saudacao($login);
           <div class="card">
             <div class="content">
               <div id="newlog">
-                <div class="icon2">
-                  <img src="<?php echo base_url() ?>assets/img/logo-two.png">
-                </div>
                 <div class="title01">
                   <?= $configuration['app_theme'] == 'white' ? '<img src="'. base_url() .'assets/img/logo-mapos.png">' : '<img src="'. base_url() .'assets/img/logo-os-novo.png">'; ?>
                 </div>
