@@ -490,27 +490,27 @@ hr {
 }
 
 .cardBox .card:nth-child(1) {
-  background: linear-gradient(270deg, #6a7bf3, #93d5ff);
+  background: linear-gradient(#4b79a1, #283e51);
 }
 
 .cardBox .card:nth-child(2) {
-  background: linear-gradient(270deg, #e18c3e, #ffd096);
+  background: linear-gradient(#4b79a1, #283e51);
 }
 
 .cardBox .card:nth-child(3) {
-  background: linear-gradient(270deg, #10a6b5, #5cede9);
+  background: linear-gradient(#4b79a1, #283e51);
 }
 
 .cardBox .card:nth-child(4) {
-  background: linear-gradient(270deg, #e7276e, #fd9eb1);
+  background: linear-gradient(#4b79a1, #283e51);
 }
 
 .cardBox .card:nth-child(5) {
-  background: linear-gradient(270deg, #15b698, #62eba6);
+  background: linear-gradient(#4b79a1, #283e51);
 }
 
 .cardBox .card:nth-child(6) {
-  background: linear-gradient(270deg, #f1b50c, #f5da56);
+  background: linear-gradient(#4b79a1, #283e51);
 }
 
 .cardBox .card .numbers {

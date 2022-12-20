@@ -6,7 +6,7 @@ class Arquivos_model extends CI_Model
 {
     /**
      * author: Guilherme Alves
-     * email: silva018-mg@yahoo.com.br
+     * email: 97guilherme.alves@gmail.com
      *
      */
     

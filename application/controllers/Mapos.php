@@ -5,7 +5,7 @@ class Mapos extends MY_Controller
 {
     /**
      * author: Guilherme Alves
-     * email: silva018-mg@yahoo.com.br
+     * email: 97guilherme.alves@gmail.com
      *
      */
 

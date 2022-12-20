@@ -18,7 +18,6 @@
 
 <!-- New Bem-vindos -->
 <div id="content-bemv">
-    <div class="bemv">Dashboard</div>
     <div></div>
 </div>
 
