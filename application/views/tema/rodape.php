@@ -1,6 +1,6 @@
 <div class="row-fluid">
     <div id="footer" class="span12"> <a class="pecolor" href="https://github.com/guiiwfz/site-os" target="_blank">
-            <?= date('Y'); ?> &copy; Guilherme Alves - Map-OS - Versão:
+            <?= date('Y'); ?> &copy; Guilherme Alves - Versão:
       <?= $this->config->item('app_version'); ?></a></div>
 </div>
 <!--end-Footer-part-->

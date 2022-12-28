@@ -491,6 +491,7 @@ label {
 
     .new122, .widget-box0, .widget-box1, .widget-box2, .widget-box-new, .widget-box-statist {
         box-shadow: 0px 3px 10px rgb(0 0 0 / 21%);
+        border-radius: 90px;
     }
 
     .cardBox .card .iconBx {

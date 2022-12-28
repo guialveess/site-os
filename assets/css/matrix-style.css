@@ -1768,7 +1768,7 @@ section .profile .profile-img {
   position      : relative;
   margin-top    : 10px;
   margin-bottom : 10px;
-  border-radius: 6px;
+  border-radius: 28px;
   background   : var(--widget-box);
   border       : 1px solid rgb(0 0 0 / 8%);
   box-shadow   : none;
@@ -1790,7 +1790,7 @@ section .profile .profile-img {
   flex-direction: column;
   clear         : both;
   position      : relative;
-  border-radius : 12px;
+  border-radius: 19px;
 }
 
 .widget-box-statist {
